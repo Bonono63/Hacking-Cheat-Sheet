@@ -6,6 +6,9 @@
 - python library for crypto
 (cryptography)[https://cryptography.io/en/latest/]
 
+- precomputed hash table site
+(crackstation)[https://crackstation.net/]
+
 - python print without new line
 print(, end='')
 
