@@ -11,6 +11,12 @@ print(, end='')
 ##
     .decode()
 
+# General text and file formats
+- Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (2^8 but probably signed)
+(ASCII)[https://en.wikipedia.org/wiki/ASCII]
+- Millions of potential characters, intended to encode every possible symbol and character in existance, support for likely all written language, encoded in 2^32
+(UTF-8)[https://en.wikipedia.org/wiki/UTF-8]
+
 [base64 wikipedia](https://en.wikipedia.org/wiki/Base64)
 - Base 64 encodes data to within a 2^6 size, Often used in web
 python
