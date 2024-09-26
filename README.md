@@ -31,6 +31,11 @@ python
     b64.b64encode()
 ##
     b64.b64decode()
+linux
+##
+    man base64
+##
+    base64 -d file
 
 [hexidecimal wikipedia](https://en.wikipedia.org/wiki/Hexadecimal)
 - Base 16 or hexidecimal: encoded within 2^4, frequenty used to represent memory addresses
