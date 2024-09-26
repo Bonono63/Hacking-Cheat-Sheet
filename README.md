@@ -41,3 +41,5 @@ python
     cum.long_to_bytes()
 ##
     cum.bytes_to_long()
+(octet wikipedia)[https://en.wikipedia.org/wiki/Octet_(computing)]
+- octet is 8 bits, basically just another way to refer to a byte, octal means base 8
