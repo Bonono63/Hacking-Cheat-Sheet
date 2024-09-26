@@ -1,5 +1,9 @@
 # Hacking-Cheat-Sheet
 
+- Easy decoding site
+(dcode.fr)[https://www.dcode.fr/]
+
+
 - python print without new line
 print(, end='')
 
