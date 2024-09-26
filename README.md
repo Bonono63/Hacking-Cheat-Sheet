@@ -16,6 +16,10 @@ print(, end='')
 ##
     .decode()
 
+- Enter hex editor mode in vim (Make sure xxd is installed if using neovim)
+##
+    %!xxd
+
 ## General text and file formats
 - Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (2^8 but probably signed)
 [ASCII](https://en.wikipedia.org/wiki/ASCII)
