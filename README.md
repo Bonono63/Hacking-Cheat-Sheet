@@ -3,6 +3,8 @@
 - Easy decoding site
 (dcode.fr)[https://www.dcode.fr/]
 
+- python library for crypto
+(cryptography)[https://cryptography.io/en/latest/]
 
 - python print without new line
 print(, end='')
