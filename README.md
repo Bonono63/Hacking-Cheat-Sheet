@@ -6,6 +6,6 @@ python
 ##
     import base64 as b64
 ##
-  b64.b64encode()
+    b64.b64encode()
 ##
-  b64.b64decode()
+    b64.b64decode()
