@@ -20,6 +20,14 @@ print(, end='')
 ##
     %!xxd
 
+-reverse any string in linux cli
+##
+    rev
+
+- the perl exiftool reads all image metadata and prints it
+##
+    exiftool
+
 ## General text and file formats
 - Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (2^8 but probably signed)
 [ASCII](https://en.wikipedia.org/wiki/ASCII)
