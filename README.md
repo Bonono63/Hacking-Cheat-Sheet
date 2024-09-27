@@ -8,6 +8,7 @@
 - [pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning)
 - [assembly](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#assembly)
 - [software security](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#software-security)
+- [web]()
 
 ## Resources
 - Easy decoding site
@@ -132,3 +133,7 @@ python
 
 - Shadow Stack, creates a seperate non executable memory region for return addresses
 [Shadow Stack wikipedia](https://en.wikipedia.org/wiki/Shadow_stack)
+
+## Web Exploits
+- TCP packet fabrication
+[inc0x0](https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/)
