@@ -9,6 +9,10 @@
 - precomputed hash table site
 [crackstation](https://crackstation.net/)
 
+- flag format
+##
+    osuctf{...}
+
 - python print without new line
 print(, end='')
 
