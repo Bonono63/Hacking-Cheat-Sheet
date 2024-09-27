@@ -2,6 +2,7 @@
 
 ## Table of contents
 [pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
+[encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
 
 ## Resources
 - Easy decoding site
@@ -80,7 +81,7 @@ linux
 [hexidecimal wikipedia](https://en.wikipedia.org/wiki/Hexadecimal)
 - Base 16 or hexidecimal: encoded within 2^4, frequenty used to represent memory addresses
 python
-## hex to bytes
+##
     bytes.fromhex()
 
 [fundamental types cppreference](https://en.cppreference.com/w/cpp/language/types#Modifiers)
