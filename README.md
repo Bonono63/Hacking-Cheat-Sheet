@@ -153,5 +153,8 @@ python
 - TCP packet fabrication
 [inc0x0](https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/)
 
+- More comprehensive and useful TCP packet fabrication
+[kytta.dev](https://www.kytta.dev/blog/tcp-packets-from-scratch-in-python-3/)
+
 - Socket family documentation
 [ibm](https://www.ibm.com/docs/en/i/7.4?topic=characteristics-socket-address-family)
