@@ -1,9 +1,13 @@
 # Hacking-Cheat-Sheet
 
 ## Table of contents
-[pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
-[encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
+[general resources](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#resources)
+[python scripting](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#python-scripting)
 [linux cli](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#linux-cli)
+[encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
+[pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
+[assembly](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#assembly)
+[software security](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#software-security)
 
 ## Resources
 - Easy decoding site
@@ -122,3 +126,9 @@ python
 
 - PIE, Position Independent Executables, ASLR adjacent info
 (PIE wikipedia)[https://en.wikipedia.org/wiki/Position-independent_code#Position-independent_executables]
+
+- Stack Canary, adds a "nonce" after a buffer on a stack to monitor for buffer overflows
+[Stack Canary wikipedia](https://en.wikipedia.org/wiki/Buffer_overflow_protection#Canaries)
+
+- Shadow Stack, creates a seperate non executable memory region for return addresses
+[Shadow Stack wikipedia](https://en.wikipedia.org/wiki/Shadow_stack)
