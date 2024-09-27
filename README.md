@@ -1,13 +1,13 @@
 # Hacking-Cheat-Sheet
 
 ## Table of contents
-[general resources](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#resources)
-[python scripting](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#python-scripting)
-[linux cli](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#linux-cli)
-[encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
-[pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
-[assembly](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#assembly)
-[software security](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#software-security)
+-[general resources](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#resources)
+-[python scripting](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#python-scripting)
+-[linux cli](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#linux-cli)
+-[encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
+-[pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
+-[assembly](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#assembly)
+-[software security](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#software-security)
 
 ## Resources
 - Easy decoding site
