@@ -8,7 +8,7 @@
 - [pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning)
 - [assembly](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#assembly)
 - [software security](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#software-security)
-- [web]()
+- [web](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#web-exploits)
 
 ## Resources
 - Easy decoding site
