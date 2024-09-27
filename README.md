@@ -22,9 +22,6 @@
 - General purpose CTF handbook
 [ctf 101](https://ctf101.org/)
 
-- heap pwning
-[heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-
 - Practice materials
 [pwn college](https://pwn.college/)
 
@@ -107,6 +104,9 @@ python
 
 - Common entry point for Arbitrary code execution
 (stack buffer overflow wikipedia)[https://en.wikipedia.org/wiki/Stack_buffer_overflow]
+
+- heap pwning
+[heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 
 ## Assembly
 - Intel64 and AMD64 are practically identical so just pick up either manual and read it.
