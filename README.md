@@ -56,6 +56,15 @@ print(, end='')
 ##
     exiftool
 
+- debian package for misc network tools
+##
+    bind9-dnsutils
+
+- resolve dns name
+##
+    nslookup
+
+
 ## General text and file formats
 
 - Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (8th bit in a byte is sometimes used for parity)
