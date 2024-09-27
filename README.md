@@ -3,6 +3,7 @@
 ## Table of contents
 [pwning](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory)
 [encoding formats](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#general-text-and-file-formats)
+[linux cli](https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#linux-cli)
 
 ## Resources
 - Easy decoding site
