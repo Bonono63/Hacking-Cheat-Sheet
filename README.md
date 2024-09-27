@@ -144,6 +144,9 @@ python
 [Shadow Stack wikipedia](https://en.wikipedia.org/wiki/Shadow_stack)
 
 ## Web Exploits
+- Python sockets documentation
+[Python socket](https://docs.python.org/3/library/socket.html)
+
 - TCP packet fabrication
 [inc0x0](https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/)
 
