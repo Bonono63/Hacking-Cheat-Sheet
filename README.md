@@ -146,3 +146,6 @@ python
 ## Web Exploits
 - TCP packet fabrication
 [inc0x0](https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/)
+
+- Socket family documentation
+[ibm](https://www.ibm.com/docs/en/i/7.4?topic=characteristics-socket-address-family)
