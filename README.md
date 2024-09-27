@@ -101,7 +101,7 @@ python
 [octet wikipedia](https://en.wikipedia.org/wiki/Octet_(computing))
 - octet is 8 bits, basically just another way to refer to a byte, octal means base 8
 
-## PWNing directory
+## PWNing
 - Potential attack vector for very specific cases
 (OBO)[https://en.wikipedia.org/wiki/Off-by-one_error]
 
