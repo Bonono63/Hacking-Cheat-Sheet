@@ -10,6 +10,9 @@
 - precomputed hash table site
 [crackstation](https://crackstation.net/)
 
+- General purpose CTF handbook
+[ctf 101](https://ctf101.org/)
+
 - heap pwning
 [heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 
@@ -99,3 +102,18 @@ python
 ## Assembly
 - Intel64 and AMD64 are practically identical so just pick up either manual and read it.
 (Intel 64 manual download)[https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html]
+
+## Software Security
+
+- Makes certain memory sections read only
+(RELRO intro)[https://ctf101.org/binary-exploitation/relocation-read-only/]
+(Enabling RELRO)[https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro]
+
+- Marks the stack as being Non-Executable
+("NX" wikipedia)[https://en.wikipedia.org/wiki/Executable-space_protection]
+
+- Randomizes the address space positions
+(ASLR)[https://en.wikipedia.org/wiki/Address_space_layout_randomization]
+
+- PIE, Position Independent Executables, ASLR adjacent info
+(PIE wikipedia)[https://en.wikipedia.org/wiki/Position-independent_code#Position-independent_executables]
