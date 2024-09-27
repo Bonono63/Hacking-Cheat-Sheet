@@ -1,5 +1,6 @@
 # Hacking-Cheat-Sheet
 
+## Resources
 - Easy decoding site
 [dcode.fr](https://www.dcode.fr/en)
 
@@ -9,9 +10,20 @@
 - precomputed hash table site
 [crackstation](https://crackstation.net/)
 
+- heap pwning
+[heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+
+- Practice materials
+[pwn college](https://pwn.college/)
+
+- Bootcamp CTF hosted by OSU cyberclub
+[bootcamp CTF](https://bootcamp.osucyber.club/)
+
 - flag format
 ##
     osuctf{...}
+
+## Python scripting
 
 - python print without new line
 print(, end='')
@@ -19,6 +31,8 @@ print(, end='')
 - python byte strings to python strings
 ##
     .decode()
+
+## Linux CLI
 
 - Enter hex editor mode in vim (Make sure xxd is installed if using neovim)
 ##
@@ -33,9 +47,13 @@ print(, end='')
     exiftool
 
 ## General text and file formats
-- Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (2^8 but probably signed)
+
+- Very simple only 128 characters, how byte strings are encoded in C, encoded in 2^7 (8th bit in a byte is sometimes used for parity)
 [ASCII](https://en.wikipedia.org/wiki/ASCII)
-- Millions of potential characters, intended to encode every possible symbol and character in existance, support for likely all written language, encoded in 2^32
+
+- Unicode is the organization that has standardized text encoding, they are responsible for UTF-8, UTF-16, and UTF-32.
+- There are currently 250,000 unique characters built into the UTF standard.
+- UTF-8 is the most common for regular files
 [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
 
 [base64 wikipedia](https://en.wikipedia.org/wiki/Base64)
@@ -67,5 +85,17 @@ python
     cum.long_to_bytes()
 ##
     cum.bytes_to_long()
+
 [octet wikipedia](https://en.wikipedia.org/wiki/Octet_(computing))
 - octet is 8 bits, basically just another way to refer to a byte, octal means base 8
+
+## PWNing directory
+- Potential attack vector for very specific cases
+(OBO)[https://en.wikipedia.org/wiki/Off-by-one_error]
+
+- Common entry point for Arbitrary code execution
+(stack buffer overflow wikipedia)[https://en.wikipedia.org/wiki/Stack_buffer_overflow]
+
+## Assembly
+- Intel64 and AMD64 are practically identical so just pick up either manual and read it.
+(Intel 64 manual download)[https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html]
