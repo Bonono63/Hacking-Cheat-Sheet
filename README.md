@@ -144,6 +144,9 @@ python
 [Shadow Stack wikipedia](https://en.wikipedia.org/wiki/Shadow_stack)
 
 ## Web Exploits
+-TCP
+[TCP wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+
 - Python sockets documentation
 [Python socket](https://docs.python.org/3/library/socket.html)
 
