@@ -124,6 +124,9 @@ python
 
 ## Software Security
 
+- Secure C Standards
+(cmu)[https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard]
+
 - Makes certain memory sections read only
 (RELRO intro)[https://ctf101.org/binary-exploitation/relocation-read-only/]
 (Enabling RELRO)[https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro]
