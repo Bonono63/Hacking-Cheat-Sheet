@@ -1,7 +1,7 @@
 # Hacking-Cheat-Sheet
 
 - Easy decoding site
-[dcode.fr](https://www.dcode.fr/)
+[dcode.fr](https://www.dcode.fr/en)
 
 - python library for crypto
 [cryptography](https://cryptography.io/en/latest/)
