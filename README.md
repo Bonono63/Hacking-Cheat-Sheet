@@ -1,5 +1,8 @@
 # Hacking-Cheat-Sheet
 
+## Table of contents
+(pwning)[https://github.com/Bonono63/Hacking-Cheat-Sheet/blob/main/README.md#pwning-directory]
+
 ## Resources
 - Easy decoding site
 [dcode.fr](https://www.dcode.fr/en)
